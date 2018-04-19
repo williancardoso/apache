@@ -4,7 +4,7 @@ Provisionamento de Apache
 
 ## Build
 ```
-docker build -t willian/apache .
+docker build -t wvcardoso/apache .
 ```
 
 ## Executando
